@@ -7,7 +7,6 @@
   }
   .maindetails{
     display: flex;
-   
     background-size: cover;
      justify-content: space-around;
      align-items: center;
