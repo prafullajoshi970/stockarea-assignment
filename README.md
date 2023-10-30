@@ -1,3 +1,22 @@
+# Warehouse Management App
+
+Welcome to the Warehouse Management App, a web application for efficient warehouse inventory management. This application allows you to filter and manage your warehouse items seamlessly.
+
+## Demo
+
+You can access the live demo of this project at [Warehouse Management App Demo](https://stockarea-assesment1.netlify.app/).
+
+## Technologies Used
+
+- React
+- React Router
+- Redux
+
+## Features
+
+- Filter and search functionality to quickly find warehouse items.
+- Efficient management of warehouse inventory.
+- User-friendly interface for easy navigation.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
